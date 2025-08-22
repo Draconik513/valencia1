@@ -24,7 +24,7 @@ export default function BirthdayMessage({ onComplete }) {
   const [step, setStep] = useState(0);
   const [showConfetti, setShowConfetti] = useState(false);
   const name = "Valencia";
-  const birthDate = "23 Agustus 2004";
+  const birthDate = "23 Agustus 2002";
 
   useEffect(() => {
     const timer = setTimeout(() => {
