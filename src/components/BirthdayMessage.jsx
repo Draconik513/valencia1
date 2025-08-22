@@ -127,7 +127,7 @@ export default function BirthdayMessage({ onComplete }) {
             }`}
           >
             <div className="text-3xl md:text-6xl font-bold text-pink-400 mb-8 neon-text">
-              Happy 21!
+              Happy 23!
             </div>
           </div>
         )}
